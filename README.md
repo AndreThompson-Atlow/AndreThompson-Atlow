@@ -2,9 +2,9 @@ Welcome to my Github Profile!
 
 My name is Andre Thompson and i'm a Fullstack Javascript Developer. I have a passion for solving problems, watching anime and writing code. 
 
-- 🌱 I’m currently learning Angular. I'm pretty solid when it comes to React, so I decided to branch out and learn Angular. So far it's not too difficult-- but I sort of hate the syntax. I mean, putting javascript lines in quotation marks? No thanks! I do love the Typescript support though. 
+- 🌱 I've been learning Angular2+ for about a week now, but i'm going quite a bit deeper on it. I'm also starting to learn Angular Material, Firebase and NgRx.
 
-- 🔭 I’m currently working on remaking my Password Saver app, but with better React code. I wrote that code before I was good at using hooks and functional based components. This version is going to look a lot better-- I promise.
+- 🔭 I'm going to rebuild password saver, but using Angular + Material + Firebase. 
 
 - ⚡ My favorite quote: "It's... Internet withdrawal... A really bad case... I haven't logged on in days...!" - Atsuro Kihara
 
