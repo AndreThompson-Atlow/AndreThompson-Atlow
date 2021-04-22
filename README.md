@@ -1,6 +1,6 @@
 Welcome to my Github Profile!
 
-My name is Andre Thompson and i'm a Fullstack Javascript Developer. I have a passion for solving problems, watching anime and writing code. 
+My name is Andre Thompson and i'm a Fullstack Typescript Developer. I have a passion for solving problems, watching anime and writing code. 
 
 - 🌱 I've gotten very comfortable with Angular, so i'm starting to work on improving my css/scss skills. 
 
