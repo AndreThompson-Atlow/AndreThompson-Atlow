@@ -1,10 +1,10 @@
 Welcome to my Github Profile!
 
-My name is Andre Thompson and i'm a Fullstack Typescript Developer. I have a passion for solving problems, watching anime and writing code. 
+My name is Andre Thompson and i'm a Fullstack Typescript Developer. I have passion for meditation, computer science, language, math and engineering. The philosophical system I connect with most is stoicism, and I am a lifelong learner. 
 
-- 🌱 I've gotten very comfortable with Angular, so i'm starting to work on improving my css/scss skills. 
+- 🌱 I'm currently learning to play the piano and going through brilliant.org's coursework.
 
-- 🔭 I'm planning on making a competitive online game soon... 
+- 🔭 I'm working on a project to teach people formal logic in an engaging way.
 
 - ⚡ My favorite quote: "It's... Internet withdrawal... A really bad case... I haven't logged on in days...!" - Atsuro Kihara
 
