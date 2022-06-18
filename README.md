@@ -10,7 +10,7 @@ My name is Andre Thompson and i'm a Fullstack Software Engineer. I have passion 
 
 - 😄 Pronouns: He/Him
 
-- Fun fact: If you want to learn something deeply & efficiently, try to utilize the following techniques:
+- ⚡ Fun fact: If you want to learn something deeply & efficiently, try to utilize the following techniques:
     1. Form to Leave Form. Practice a technique or concept until it's ingrained in your sub-conscious and can be performed without thinking. You can now simplify the concept/technique into one single concept instead of a series of steps/collection of ideas. This concept/technique is now a single building block in the overall structure that you will create. Note: I do mean practice, not study. You may need to study before practicing as well, but nothing can be truly learned in a vacuum.
     2. Pareto Principle. Statistically speaking all input/output systems that stem from natural processes are likely to have imbalances. These imbalances take the form of certain inputs affecting a greater range of outputs than others. Identify these inputs that garner the most outputs and analyze them. If a certain input brings the most negative outputs, avoid it. If it brings the most positive outputs, prioritize it. If something has little affect overall, ignore it.
     3. Deliberate Practice. Don't just play the same song over and over again, don't use the same chess openings every time and don't keep studying the same words in your target language endlessly. It's easy to confuse practice for deliberate practice, thinking that any time dedicated to improvement is equally valuable, but it's simply not true. You need to chunk your work into sub tasks/concepts and learn them in order.
