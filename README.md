@@ -2,9 +2,7 @@ Welcome to my Github Profile!
 
 My name is Andre Thompson and i'm a Fullstack Software Engineer. I have passion for meditation, computer science, language, math and engineering. The philosophical systems I connect with most are stoicism, skeptical empiricism and optimistic nihilism. I strive to learn new things every day and challenge myself to do something new as often as possible.
 
-- 🌱 I'm currently learning spanish, the piano/keyboard, vim and refreshing my pre-calculus/calculus skills.
-
-- 🔭 I'm working on a Language Generator that creates brand new languages using the gpt-3 ai and some recursive mutation-based logic.
+- 🌱 I'm currently learning spanish, vim and refreshing my pre-calculus/calculus skills.
 
 - ⚡ My favorite quote: "It's... Internet withdrawal... A really bad case... I haven't logged on in days...!" - Atsuro Kihara
 
