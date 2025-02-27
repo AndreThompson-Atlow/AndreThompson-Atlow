@@ -24,7 +24,7 @@ I approach software development through systematic methodologies:
 4. **Continuous Integration**: Regular feedback loops for code quality and performance
 
 ### 🎯 Core Competencies
-- Frontend: React, Vue.js, TypeScript
+- Frontend: React, Angular, TypeScript
 - Backend: Node.js, Python, Java
 - Database: PostgreSQL, MongoDB
 - DevOps: Docker, AWS, CI/CD
